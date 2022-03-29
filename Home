@@ -1,0 +1,20 @@
+body{
+    background:url(C:\Users\WulanM\Documents\Kuliah\Semester4\Pemrograman Web 1\index.html\logo-ars.png)no-repeat center fixed;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    margin:0 auto;
+    padding: 0;
+    width: 250px;
+    height: 600px;
+}
+.animasi {
+    transition: all 0.1s;
+    -webkit-transition: all 0.1s;
+}
+.tombol-aktif {
+    padding: 10px 40px;
+    border-radius: 10px;
+    
+}
